@@ -25,7 +25,3 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-makeCacheMatrix <- function(x = matrix()) {
-
-}
-
